@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "818937117301",
+    "firebase_url": "https://video-call-f8d59.firebaseio.com",
+    "project_id": "video-call-f8d59",
+    "storage_bucket": "video-call-f8d59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818937117301:android:a3f9d2fec5d73ba0a1563c",
+        "android_client_info": {
+          "package_name": "com.deepak.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818937117301-vq0j6p07e0po22c7ie6n8de68grsvk5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepak.videocall",
+            "certificate_hash": "a5d268c10fd5163399e8976a70f1afb823e946a1"
+          }
+        },
+        {
+          "client_id": "818937117301-vnbmjb6v67hfh3vopr3lrpmq67341asp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_Stbmah7345UrdTNckZPSeL04L746CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818937117301-vnbmjb6v67hfh3vopr3lrpmq67341asp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
